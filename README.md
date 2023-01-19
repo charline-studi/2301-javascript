@@ -20,7 +20,7 @@ Durant les lives nous allons voir les bases du langage Javascript, de façon th�
 | Numéro | Date       | Heure         | Titre                        | Replay                |
 | ------ | ---------- | ------------- | ---------------------------- | --------------------- |
 | 01     | 16/01/2023 | 15h - 16h     | Introduction, variables      | https://app.studi.fr/#/dashboard/events/47031/replay |
-| 02     | 19/01/2023 | 15h - 16h     | Suite variables et fonctions | Pas encore disponible |
+| 02     | 19/01/2023 | 15h - 16h     | Suite variables et fonctions | https://app.studi.fr/v3/events/47032/replay |
 | 03     | 23/01/2023 | 15h - 16h     | Les boucles, les conditions  | Pas encore disponible |
 | 04     | 30/01/2023 | 15h - 16h     | Intéractions HTML et CSS     | Pas encore disponible |
 | 05     | 02/02/2023 | 15h - 16h     | Mise en pratique             | Pas encore disponible |
@@ -29,4 +29,3 @@ Durant les lives nous allons voir les bases du langage Javascript, de façon th�
 ## Ressources
 
 - [📖 Guide Javascript - FR](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide)
-
