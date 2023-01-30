@@ -17,14 +17,13 @@ Durant les lives nous allons voir les bases du langage Javascript, de façon th�
 
 ## Planning
 
-| Numéro | Date       | Heure         | Titre                        | Replay                |
-| ------ | ---------- | ------------- | ---------------------------- | --------------------- |
-| 01     | 16/01/2023 | 15h - 16h     | Introduction, variables      | https://app.studi.fr/#/dashboard/events/47031/replay |
-| 02     | 19/01/2023 | 15h - 16h     | Suite variables et fonctions | https://app.studi.fr/v3/events/47032/replay |
-| 03     | 23/01/2023 | 15h - 16h     | Les boucles, les conditions  | https://app.studi.fr/v3/events/47033/replay |
-| 04     | 30/01/2023 | 15h - 16h     | Intéractions HTML et CSS     | Pas encore disponible |
-| 05     | 02/02/2023 | 15h - 16h     | Mise en pratique             | Pas encore disponible |
-
+| Numéro | Date       | Heure     | Titre                                            | Replay                                               |
+| ------ | ---------- | --------- | ------------------------------------------------ | ---------------------------------------------------- |
+| 01     | 16/01/2023 | 15h - 16h | Introduction, variables                          | https://app.studi.fr/#/dashboard/events/47031/replay |
+| 02     | 19/01/2023 | 15h - 16h | Suite variables et fonctions                     | https://app.studi.fr/v3/events/47032/replay          |
+| 03     | 23/01/2023 | 15h - 16h | Les conditions if, else if , else et le ternaire | https://app.studi.fr/v3/events/47033/replay          |
+| 04     | 30/01/2023 | 15h - 16h | La boucle For                                    | https://app.studi.fr/v3/events/47034/replay          |
+| 05     | 02/02/2023 | 15h - 16h | Mise en pratique                                 | Pas encore disponible                                |
 
 ## Ressources
 
