@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Live #5 - HTML</title>
+  </head>
+  <body>
+    <style>
+      .dot-container {
+        display: flex;
+        gap: 5px;
+      }
+      .dot {
+        width: 20px;
+        height: 20px;
+        background-color: black;
+        border-radius: 100%;
+      }
+    </style>
+    <button onclick="clic()">Cliquez-moi</button>
+    <button id="myButton">Clic 2</button>
+    <button data-myButton>Mon bouton 3</button>
+    <br />
+    <div class="dot-container">
+      <div class="dot" data-dot="1"></div>
+      <div class="dot" data-dot="2"></div>
+      <div class="dot" data-dot="3"></div>
+    </div>
+    <p>Point cliqué : <span data-number></span></p>
+    <button data-reset>Reset</button>
+    <script src="script.js"></script>
+  </body>
+</html>
