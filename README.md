@@ -24,6 +24,8 @@ Durant les lives nous allons voir les bases du langage Javascript, de fa√ßon th√
 | 03     | 23/01/2023 | 15h - 16h | Les conditions if, else if , else et le ternaire | https://app.studi.fr/v3/events/47033/replay          |
 | 04     | 30/01/2023 | 15h - 16h | La boucle For                                    | https://app.studi.fr/v3/events/47034/replay          |
 | 05     | 02/02/2023 | 15h - 16h | Mise en pratique                                 | https://app.studi.fr/v3/events/47035/replay          |
+| Bonus 1/2 | 22/02/2023 | 15h - 16h | Mon dictionnaire dynamique | https://app.studi.fr/v3/events/49215/replay |
+
 
 ## Ressources
 
