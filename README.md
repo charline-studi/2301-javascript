@@ -26,9 +26,12 @@ Durant les lives nous allons voir les bases du langage Javascript, de façon th�
 | 05     | 02/02/2023 | 15h - 16h | Mise en pratique                                 | https://app.studi.fr/v3/events/47035/replay          |
 | Bonus 1/2 | 22/02/2023 | 15h - 16h | Mon dictionnaire dynamique | https://app.studi.fr/v3/events/49215/replay |
 | Bonus 2/2 | 24/02/2023 | 15h - 16h | Mon dictionnaire dynamique | https://app.studi.fr/v3/events/49216/replay |
+| Bonus 3/2 | 02/03/2023 | 15h - 16h | Mon dictionnaire dynamique | https://app.studi.fr/v3/events/50268/replay |
 
 
 ## Ressources
 
 - [📖 Guide Javascript - FR](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide)
 - [Liste des évènements écoutables en JS](https://developer.mozilla.org/fr/docs/Web/API/Event)
+- [new Audio()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
+- [create Element](https://developer.mozilla.org/fr/docs/Web/API/Document/createElement)
